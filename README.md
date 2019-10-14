@@ -1,4 +1,8 @@
-# Restaurant website using Bootstrap.
+# Restaurat Website in Bootstrap
 
-url = https://hichambezzizi.github.io/bootstrap-website/
+This is a restaurant website I made for a project during my web dev education at BeCode. We were tasked of creating a website using only Bootstrap.
+
+[Restaurant Project](https://hichambezzizi.github.io/bootstrap-website/)
+
+
 
